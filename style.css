@@ -1,0 +1,45 @@
+body {
+    scroll-behavior: smooth;
+    background: linear-gradient(135deg, #c2d6dd, #fce4ec);
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #a5e2e2, #1395ac);
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: yellow !important;
+}
+
+#home {
+    background: linear-gradient(120deg, #ffffff, #e3f2fd);
+    text-align: center;
+}
+
+#home h1 {
+    font-size: 3rem;
+    color: #0d6efd;
+}
+
+#home p {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.profile-img {
+    width: 140px;
+    height: 140px;
+    border: 3px solid #c9239f;
+    padding: 3px;
+}
+
+.section {
+    padding: 100px 20px;
+    margin-bottom: 40px;
+}
